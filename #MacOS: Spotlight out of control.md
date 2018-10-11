@@ -1,4 +1,5 @@
 # 解决Mac上用spotlight搜索输入几个字母后闪退问题
+>源自：[开源中国](https://my.oschina.net/u/1037903/blog/2221932)
 
 > 问题描述：使用spotlight进行搜索时，只要输入字母超过一定个数(在我的Mac上是5个左右)，spotlight就闪退了。
 
