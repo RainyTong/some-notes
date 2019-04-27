@@ -18,4 +18,4 @@ So when I use `pip` to install tensorflow, it will be installed in `/usr/local/l
 Use `python3 -m pip install --ignore-installed --upgrade tensorflow -i https://pypi.doubanio.com/simple/` to install/update tensorflow, tf will 
 be installed in `/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages`.
 
-*Please remember to use `python3 -m pip install` to replace `pip3`!!!* :pray::pray::pray:
+*Please remember to use `python3 -m pip install` to replace `pip3 install`!!!* :pray::pray::pray:
